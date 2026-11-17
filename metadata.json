@@ -1,0 +1,6 @@
+{
+  "name": "Smart Khatabook",
+  "description": "Digital credit account ledger book for shopkeepers and small businesses to manage customer udhar, payments, expenses, and ledgers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
